@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "phaser-ce": "2.16.0"
+  }
+}
